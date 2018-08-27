@@ -1,0 +1,132 @@
+/*** Dimensions for iphone 8 ***/
+
+body{
+	height: 667px;
+	width: 375px;
+	padding-left: 50px;
+}
+
+
+body {
+	font-family: sans-serif;
+	font-size: 1em;
+	color: black;
+}
+
+/*** Title Bar Attributes ***/
+
+header {
+	background-color: #583999;
+	border-bottom: 2px solid #8a8a8f;
+}
+
+.fa-chevron-left{
+	color: white;
+}
+
+.header {
+	padding-left: 4%;
+	vertical-align: middle;
+	color: white;
+}
+
+i {
+  color: #007AFF;
+}
+
+h1{
+	vertical-align: middle;
+	display: inline-block;
+	color: white;
+	font-size: 1.4em;
+	padding-top: .4em;
+	padding-bottom: .6em;
+	padding-left: 2.7em;
+}
+
+.header-row {
+	background-color: #9E84D4;
+	padding: 2.5% 4% 2.5% 4%;
+}
+
+
+
+h2{
+	display: inline-block;
+	font-size: 1.2em;
+	font-weight: 300;
+  color: white;
+}
+
+.busNumTitle {
+  width: 18%;
+}
+
+.desTitle {
+	padding-left: 8%
+}
+
+.freqTitle {
+	float: right;
+}
+
+/*** List Attributes ***/
+
+.busNum {
+	width: 18%;
+	display: inline-block;
+	font-size: 1em;
+	font-weight: 600;
+}
+
+
+.des {
+	letter-spacing: .05em;
+	display: inline-block;
+	font-weight: lighter;
+	padding-left: 8%;
+}
+
+
+
+.freq {
+	float: right;
+	right: 0px;
+	display: inline-block;
+	font-size: 1em;
+	font-weight: 600;
+}
+
+
+
+p {
+	letter-spacing: .05em;
+	padding-top: 4%;
+	padding-left: 4%;
+	font-weight: lighter;
+	font-size: 1.1em;
+}
+
+ul {
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+/*** Header ***/
+
+
+
+
+/*** Border ***/
+
+.breaker div{
+	border-bottom: 1px solid #583999;
+}
+
+/*** Background ***/
+
+.backgroundcolor div{
+	background-color: white;
+}
