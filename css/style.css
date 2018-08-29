@@ -58,6 +58,11 @@ h2{
   color: white;
 }
 
+h3{
+	margin-top: 1.2em;
+	margin-bottom: .75em;
+}
+
 .busNumTitle {
   width: 18%;
 }
@@ -121,12 +126,6 @@ ul {
 
 /*** Border ***/
 
-.breaker div{
+.breaker {
 	border-bottom: 1px solid #583999;
-}
-
-/*** Background ***/
-
-.backgroundcolor div{
-	background-color: white;
 }
